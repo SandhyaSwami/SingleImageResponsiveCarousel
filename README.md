@@ -1,6 +1,7 @@
 Welcome to the world of Single-Image Responsive Carousel!
 ===================
 
+[Demo](#http://sandhyaswami.github.io/SingleImageResponsiveCarousel/index.html)
 
 Now a days we are developing ***Responsive Web Applications*** and we want them should work across all the devices like 
 
@@ -19,7 +20,7 @@ I have developed a very simple ***Single-Page Carousel*** for all the devices us
 
 For any queries/feedback/issues please get in touch with me on my e-mail id SandhySwami.mail@gmail.com
 
-Demo(#http://sandhyaswami.github.io/SingleImageResponsiveCarousel/index.html)
+
 
 
 
