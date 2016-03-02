@@ -19,7 +19,7 @@ I have developed a very simple ***Single-Page Carousel*** for all the devices us
 
 For any queries/feedback/issues please get in touch with me on my e-mail id SandhySwami.mail@gmail.com
 
-
+Demo(#synchronization)
 
 
 
