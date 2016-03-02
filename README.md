@@ -1,7 +1,7 @@
 Welcome to the world of Single-Image Responsive Carousel!
 ===================
 
-[Demo](#http://sandhyaswami.github.io/SingleImageResponsiveCarousel/index.html)
+[Demo](http://sandhyaswami.github.io/SingleImageResponsiveCarousel/index.html)
 
 Now a days we are developing ***Responsive Web Applications*** and we want them should work across all the devices like 
 
